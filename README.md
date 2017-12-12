@@ -13,5 +13,5 @@ shove and move our precious earth with your fingertips. Remember, with power com
 Check out the TouchActivity.java for all the magic.
 
 This example uses a dependency on the project through Jitpack.io. See the different build.gradle files 
-for how this is configured. This example is currently set to use v1.0 of the framework.
+for how this is configured. This example is currently set to use v1.0.1 of the framework.
 

@@ -21,5 +21,5 @@ android {
 dependencies {
     implementation fileTree(dir: 'libs', include: ['*.jar'])
     implementation 'com.android.support:appcompat-v7:26.1.0'
-    compile 'com.github.Almeros:android-gesture-detectors:v1.0'
+    compile 'com.github.Almeros:android-gesture-detectors:v1.0.1'
 }
